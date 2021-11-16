@@ -54,10 +54,9 @@ linkedin_username: drew-williamson-md # your LinkedIn user name
 scholar_userid: tAxVl44AAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-1745-8846 # your ORCID ID
 
-rss_icon: true
+rss_icon: false
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: # could add a note about how bnest to contact
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
