@@ -170,7 +170,7 @@ jekyll-archives:
 scholar:
 
   last_name: Williamson
-  first_name: [Drew, D., Drew FK, Drew Fabrizio]
+  first_name: [Drew, D., Drew FK, Drew Fabrizio, Drew FK*]
 
   style: apa
   locale: en
